@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- 1. Главная -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lucky-bear-casino.rest/images/logo.png</image:loc>
+      <image:title>Lucky Bear Casino — официальный сайт</image:title>
+    </image:image>
+  </url>
+
+  <!-- 2. Бонусы -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/bonus.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Игры -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/games.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. VIP -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/vip.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 5. Приложение -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/app.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. Платежи -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/payments.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 7. Отзывы -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/reviews.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 8. Поддержка -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/support.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 9. Партнёрам -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/partners.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 10. Правила -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/rules.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 11. Контакты -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/contacts.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 12. О проекте -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/about.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 13. FAQ -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/faq.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 14. Ответственная игра -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/responsible.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 15. Безопасность -->
+  <url>
+    <loc>https://lucky-bear-casino.rest/security.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
